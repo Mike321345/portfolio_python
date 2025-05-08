@@ -19,3 +19,4 @@ h/bank_clients_research.ipynb)| Финтех, Банкинг | Изучи рас
 полу). Выводы: | *datetime, timedelta, pandas, matplotlib.pyplot, seaborn* | [Презентация "Исследование
 банковских клиентов"]( https://drive.google.com/file/d/1e77hWnUlteywMtlVLcCZShDh-rMf8awR/view?
 usp=drive_link)
+
